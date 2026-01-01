@@ -83,7 +83,19 @@ loss-first logic based on historical data.
 - Focused on loss prevention and risk control  
 
 ---
+## Demo Application
 
+A functional demo Android APK was built to demonstrate how the AIME decision
+engine operates across its modules.
+
+The demo application validates:
+- End-to-end decision flow
+- Clear separation between modules
+- Deterministic, rule-based outputs
+
+The demo is intended for proof of concept, evaluation by recruiters, and
+early-stage investor discussions. It is not positioned as a production-ready
+consumer application.
 ## Intended Use
 
 This project demonstrates structured decision logic, risk evaluation, and

@@ -1,4 +1,6 @@
-AIME: AI Decision Engine for Indian MSMEs
+AIME: 
+
+AI Decision Engine for Indian MSMEs
 A multilingual decision-support app for small manufacturers. Owners enter their own numbers (orders, stock, trips, machines, exports) and AIME analyses them to support day-to-day decisions.
 Status: Working prototype (Android app), not production software.
 How it was built: Designed and built by me, with AI assistance (Claude) for coding and iteration. The Claude API takes the data and inputs a user enters and returns a detailed, context-specific analysis of their situation.
